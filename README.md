@@ -15,4 +15,3 @@ Based in Afghanistan but coding knows no borders 🚀
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-![Maryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=WajihaNiazi&show_icons=true&theme=radical)
