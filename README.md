@@ -13,6 +13,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) <br>
-![Maryam's GitHub stats][![GitHub Streak](https://streak-stats.demolab.com/?maryam mirzada=DenverCoder1)](https://git.io/streak-stats)
+![Maryam's GitHub stats][![GitHub Streak](https://streak-stats.demolab.com/?MaryamMirzada=DenverCoder1)](https://git.io/streak-stats)
 
 
