@@ -3,10 +3,10 @@
 <p> <b>🌍 Turning ideas into reality, one line of code at a time.</b> </p>
 
 ## 👩‍💻 About me : 
-💻React Student @ Code to inpire <br>
+<p>💻React Student @ Code to inpire <br>
 ©️Passionate about **clean code**, open-source, and problem-solving <br>
-🔖Based in Afghanistan but coding knows no borders 🚀
- 
+🔖Based in Afghanistan but coding knows no borders 🚀 </p>
+  
 ## ⚡ Tech Stack
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
