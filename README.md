@@ -1,5 +1,5 @@
 Maryam Mirzada | Front-End developer
-
+</hr>
 🌍 Turning ideas into reality, one line of code at a time.
 
 ## 👩‍💻 About me : 
