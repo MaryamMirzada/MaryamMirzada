@@ -1,6 +1,6 @@
 <h1>Maryam Mirzada | Front-End developer </h1>
 </hr>
-🌍 Turning ideas into reality, one line of code at a time.
+<p> <b>🌍 Turning ideas into reality, one line of code at a time.</b> </p>
 
 ## 👩‍💻 About me : 
 💻React Student @ Code to inpire <br>
